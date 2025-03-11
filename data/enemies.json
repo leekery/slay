@@ -1,0 +1,3 @@
+[
+  { "id": "enemy_1", "name": "Гоблин", "health": 30, "attack": 5 }
+]

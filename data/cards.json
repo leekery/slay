@@ -1,0 +1,6 @@
+{
+  "basicDeck": [
+    { "id": "attack_1", "name": "Удар мечом", "type": "attack", "damage": 6, "cost": 1 },
+    { "id": "defend_1", "name": "Блок щитом", "type": "defend", "block": 5, "cost": 1 }
+  ]
+}
