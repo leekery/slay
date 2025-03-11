@@ -1,0 +1,11 @@
+[
+  {
+    "id": "slime_basic",
+    "name": "Слизень",
+    "maxHp": 14,
+    "movesPattern": [
+      { "action": "attack", "damage": 3 },
+      { "action": "debuff", "effect": "slimeDebuff" }
+    ]
+  }
+]

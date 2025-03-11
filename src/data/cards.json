@@ -1,0 +1,18 @@
+[
+  {
+    "id": "strike",
+    "name": "Удар",
+    "type": "attack",
+    "cost": 1,
+    "damage": 6,
+    "description": "Наносит 6 урона врагу."
+  },
+  {
+    "id": "defend",
+    "name": "Защита",
+    "type": "skill",
+    "cost": 1,
+    "block": 5,
+    "description": "Даёт 5 блока."
+  }
+]

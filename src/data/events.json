@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mysterious_chest",
+    "title": "Таинственный сундук",
+    "options": [
+      {
+        "text": "Открыть сундук",
+        "outcome": "получить_реликвию",
+        "relicId": "burning_blood"
+      },
+      {
+        "text": "Пройти мимо",
+        "outcome": "ничего"
+      }
+    ]
+  }
+]

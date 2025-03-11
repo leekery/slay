@@ -1,0 +1,24 @@
+{
+  "name": "slay-the-spire",
+  "version": "1.0.0",
+  "description": "Проект — упрощенная реализация карточного рогалика в духе *Slay the Spire*, где игрок собирает колоду карт, сражается с врагами в пошаговом режиме и исследует процедурно сгенерированные этажи.",
+  "main": "src/logic/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leekery/slay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leekery/slay/issues"
+  },
+  "homepage": "https://github.com/leekery/slay#readme",
+  "dependencies": {
+    "electron": "^35.0.1"
+  }
+}
