@@ -1,4 +1,4 @@
-import cardsData from '../../data/cards.json' assert { type: 'json' };
+import cardsData from '../../data/cards.json';
 
 export function drawCard() {
   // Из базовой колоды выбирается случайная карта
